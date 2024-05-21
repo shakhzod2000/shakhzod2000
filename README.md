@@ -3,6 +3,9 @@ I am a passionate learner of Software Development. I started my career as a stud
 
 ## Skills
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=&logoColor=white)](https://www.w3schools.com/c/c_intro.php)
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+</a>
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-transparent&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
