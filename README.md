@@ -3,7 +3,7 @@ I am a passionate learner of Software Development. I started my career as a stud
 
 ### Skills
 ![](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-5.0-orange)
+![HTML](https://img.shields.io/badge/HTML-orange)
 <!--
 https://www.w3schools.com/c/c_intro.php
 - 🔭 I’m currently working on ...
