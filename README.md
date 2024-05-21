@@ -6,6 +6,8 @@ I am a passionate learner of Software Development. I started my career as a stud
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-transparent&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migmanu&layout=compact&hide=Makefile&langs_count=8)
+
 <!--
 https://www.w3schools.com/c/c_intro.php
 - 🔭 I’m currently working on ...
