@@ -8,8 +8,8 @@ I am a passionate learner of Software Development. I started my career as a stud
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-323330?style=flat-square&logo=python&logoColor=F7DF1E)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-[![GitHub followers](https://img.shields.io/github/followers/shakhzod2000?label=Follow&style=social)](https://github.com/shakhzod2000)
-
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/shakhzod-shermatov-18b074180/)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzod2000&layout=compact&hide=Makefile&langs_count=8)
 <!--
