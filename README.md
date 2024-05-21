@@ -12,8 +12,9 @@ I am a passionate learner of Software Development. I started my career as a stud
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakhzod-shermatov-18b074180/)
 
 <a href="https://www.linkedin.com/in/shakhzod-shermatov-18b074180/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
 </a>
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzod2000&layout=compact&hide=Makefile&langs_count=8)
 <!--
