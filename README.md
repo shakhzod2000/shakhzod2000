@@ -15,11 +15,6 @@ I am a passionate learner of Software Development. I started my career as a stud
 
 ## Use of languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzod2000&layout=compact&hide=Makefile&langs_count=8)
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzod2000&layout=compact&theme=dark" alt="Top Languages" /></td>
-  </tr>
-</table>
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakhzod-shermatov-18b074180/)
 
