@@ -2,7 +2,7 @@
 I am a passionate learner of Software Development. I started my career as a student in a coding school namely [42 Berlin](https://42berlin.de/de/). I have coding experience in Python, JavaScript, C, HTML and CSS. I am currently engaged in developing my first independently organized project, you can check it [here](https://essential-words.com) and repository [here](https://github.com/shakhzod2000/essential).
 ## Skills
 ![Python](https://img.shields.io/badge/Python-323330?style=flat-square&logo=python&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=&logoColor=white)](https://www.w3schools.com/c/c_intro.php)
 ![HTML](https://img.shields.io/badge/HTML-orange)
