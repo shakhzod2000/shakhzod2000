@@ -8,8 +8,7 @@ I am a passionate learner of Software Development. I started my career as a stud
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-transparent&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-### Socials
-
+## Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/shakhzod-shermatov-18b074180/" target="_blank" rel="noreferrer">
     <picture>
