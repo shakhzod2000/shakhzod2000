@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a passionate Software Developer. I started my career as a student in a coding school namely [42 Berlin](https://42berlin.de/de/). I have coding experience in Python, PHP, MySQL, JavaScript, C, HTML and CSS. I am currently engaged in developing my first independently organized project, you can check it [here](https://essential-words.com) and repository [here](https://github.com/shakhzod2000/essential).
+I am a passionate Software Developer. I started my career as a student in a coding school namely [42 Berlin](https://42berlin.de/de/). I have coding experience in Python, PHP, MySQL, JavaScript, C, HTML and CSS. I am currently engaged in developing my first independently organized project essential-words.com, you can check it [here](https://essential-words.com) and repository [here](https://github.com/shakhzod2000/essential).
 ## Skills
 <p align="left">
   <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
