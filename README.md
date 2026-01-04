@@ -1,5 +1,5 @@
 ## Hi 👋  My name is Shakhzod Shermatov
-I am a passionate Backend Developer. I started my career as a student in a coding school namely [42 Berlin](https://42berlin.de/). I have professional experience in Python(Django), Java, PHP, PostgreSQL, MySQL, JavaScript and C. I am currently engaged in developing my first independently organized project [essential-words.uz](https://essential-words.uz), you can check the repository [here](https://github.uz/shakhzod2000/essential-words-old).
+I am a passionate Backend Developer. I started my career as a student in a coding school namely [42 Berlin](https://42berlin.de/). I have professional experience in Python(Django), Java, PHP, PostgreSQL, MySQL, JavaScript and C. I am currently engaged in developing my first independently organized project [essential-words.uz](https://essential-words.uz), you can check the repository [here](https://github.com/shakhzod2000/essential-words-old).
 ## Skills
 <p align="left">
   <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
