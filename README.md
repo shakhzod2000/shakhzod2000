@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 My name is Shakhzod Shermatov
 I am a passionate Software Developer. I started my career as a student in a coding school namely [42 Berlin](https://42berlin.de/). I have professional experience in Python(Django), Java, PHP, PostgreSQL, MySQL, JavaScript and C. I am currently engaged in developing my first independently organized project [essential-words.uz](https://essential-words.uz), you can check the repository [here](https://github.uz/shakhzod2000/essential).
 ## Skills
 <p align="left">
