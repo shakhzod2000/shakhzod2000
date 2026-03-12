@@ -4,8 +4,8 @@ Backend Engineer focused on building **performant APIs, clean architectures, and
 🎓 Started my programming journey at [42 Berlin](https://42berlin.de/), where I built a strong foundation in algorithms, low-level programming and problem solving.
 
 ## 💻 Skills in Languages and Technologies
-<div style="display: flex; align-items: flex-start; align: left">
-<table align="left">
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -127,18 +127,6 @@ A platform for mastering essential English vocabulary with **interactive quizzes
 https://essential-words.uz
 -->
 
-
-<!--
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakhzod2000&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzod2000&layout=compact)
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shakhzod2000)
--->
 
 ## 👀 Profile Views
 
