@@ -4,7 +4,7 @@ Backend Engineer focused on building **performant APIs, clean architectures, and
 🎓 Started my programming journey at [42 Berlin](https://42berlin.de/), where I built a strong foundation in algorithms, low-level programming and problem solving.
 
 ## 💻 Skills in Languages and Technologies
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start; align: left">
 <table align="left">
   <tr>
     <td align="center" width="96">
