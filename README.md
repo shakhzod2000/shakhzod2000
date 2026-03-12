@@ -49,6 +49,27 @@ A platform for mastering essential English vocabulary with **interactive quizzes
 https://essential-words.uz
 -->
 
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakhzod2000&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzod2000&layout=compact)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shakhzod2000)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=shakhzod2000)
+
+
 ## GitHub Stats
 <a href="https://github.com/shakhzod2000" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzod2000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
