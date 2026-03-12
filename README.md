@@ -79,6 +79,8 @@ Backend Engineer focused on building **performant APIs, clean architectures, and
   </tr>
 </table>
 
+<br clear="left"/>
+
 
 ## 💻 Skills in Languages and Technologies
 <div style="display: flex; align-items: flex-start; align: center">
