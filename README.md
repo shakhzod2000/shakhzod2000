@@ -3,12 +3,13 @@ Backend Engineer focused on building **performant APIs, clean architectures, and
 
 🎓 Started my programming journey at [42 Berlin](https://42berlin.de/), where I built a strong foundation in algorithms, low-level programming and problem solving.
 
-## ⚙️ Tech Stack
+## ⚙️ Skills
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,php,postgres,mysql,js,c,docker,nginx,redis,aws" />
 </p>
 
+<!--
 ## Skills
 <p align="left">
   <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -24,6 +25,7 @@ Backend Engineer focused on building **performant APIs, clean architectures, and
   <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
+-->
 
 ## Socials
 <p align="left">
