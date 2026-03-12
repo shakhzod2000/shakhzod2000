@@ -49,21 +49,18 @@ A platform for mastering essential English vocabulary with **interactive quizzes
 https://essential-words.uz
 -->
 
----
 
+<!--
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakhzod2000&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzod2000&layout=compact)
 
----
-
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shakhzod2000)
-
----
+-->
 
 ## 👀 Profile Views
 
@@ -75,7 +72,7 @@ https://essential-words.uz
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzod2000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
-<!--
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakhzod-shermatov-18b074180/)
 
 https://www.w3schools.com/c/c_intro.php
@@ -87,4 +84,3 @@ https://www.w3schools.com/c/c_intro.php
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
