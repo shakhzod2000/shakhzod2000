@@ -1,5 +1,5 @@
 ## Hi 👋  My name is Shakhzod Shermatov
-I am a Backend Developer with a passion for building clean, reliable, and scalable backend systems. I started my career as a student in a coding school namely [42 Berlin](https://42berlin.de/). I have professional experience in Python(Django, DRF, FastAPI), Java, PHP, PostgreSQL, MySQL, JavaScript, C, Docker, Nginx, Celery, Redis, AWS and modern API design. Here's my first independently organized project [essential-words.uz](https://essential-words.uz), you can check the repository [here](https://github.com/shakhzod2000/essential-words-old).
+Backend Engineer focused on building **performant APIs, clean architectures, and scalable backend systems**.
 
 🎓 Started my programming journey at [42 Berlin](https://42berlin.de/), where I built a strong foundation in algorithms, low-level programming and problem solving.
 
@@ -37,14 +37,16 @@ I am a Backend Developer with a passion for building clean, reliable, and scalab
   </a>
 </p>
 
+<!--
 ## 🚀 Featured Project
 
-### essential-words.uz
+### Essential Words
 
 A platform for mastering essential English vocabulary with **interactive quizzes, XP, streaks, leaderboards, and statistics**.
 
 🌐 Website  
 https://essential-words.uz
+-->
 
 ## GitHub Stats
 <a href="https://github.com/shakhzod2000" align="left">
