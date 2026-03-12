@@ -5,7 +5,7 @@ Backend Engineer focused on building **performant APIs, clean architectures, and
 
 ## 💻 Skills in Languages and Technologies
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
