@@ -27,7 +27,7 @@
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="48" height="48" />
       <br>Spring Boot
     </td>
     <td align="center" width="96">
@@ -73,21 +73,24 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prometheus" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>RestAPI
+    </td>
+  </tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prometheus" alt="icon" width="48" height="48" />
       <br>Prometheus
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=grafana" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=grafana" alt="icon" width="48" height="48" />
       <br>Grafana
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>RestAPI
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+  <tr>
+    
   </tr>
 </table>
 
