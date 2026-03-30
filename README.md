@@ -26,7 +26,7 @@
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
-    <td align="center" width="106">
+    <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="48" height="48" />
       <br>Spring Boot
     </td>
