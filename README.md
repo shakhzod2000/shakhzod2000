@@ -27,6 +27,10 @@
       <br>Java
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="65" height="65" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
@@ -67,6 +71,14 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prometheus" alt="icon" width="65" height="65" />
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=grafana" alt="icon" width="65" height="65" />
+      <br>Grafana
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
