@@ -26,11 +26,11 @@
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
-    <td align="center" width="96">
+    <td align="center" width="106">
         <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="48" height="48" />
       <br>Spring Boot
     </td>
-    <td align="center" width="106">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
