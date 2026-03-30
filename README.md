@@ -30,7 +30,7 @@
         <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="48" height="48" />
       <br>Spring Boot
     </td>
-    <td align="center" width="96">
+    <td align="center" width="106">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
