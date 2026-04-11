@@ -176,7 +176,7 @@ https://essential-words.uz
 
 ## GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats-shakhzods-projects-5296ea2a.vercel.app/api/top-langs/?username=shakhzod2000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-shakhzods-projects-5296ea2a.vercel.app/api/top-langs/?username=shakhzod2000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
 </div>
 
 ## GitHub Stats
