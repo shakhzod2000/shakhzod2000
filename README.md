@@ -149,12 +149,12 @@ https://essential-words.uz
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shakhzod2000)
 
-<!--
+
 ## GitHub Stats
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakhzod2000&theme=dark&hide_border=true&background=1c1917" alt="GitHub Streak" />
 </div>
--->
+
 
 <!--
 ## GitHub Stats
@@ -183,10 +183,8 @@ https://essential-words.uz
 
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakhzod2000&theme=github_dark" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakhzod2000&theme=github_dark" alt="Most Used Language" />
 </div>
 
 
 <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
-<!-- <img src="https://raw.githubusercontent.com/shakhzod2000/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;"> -->
 
