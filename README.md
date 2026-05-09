@@ -152,35 +152,10 @@ https://essential-words.uz
 
 ## GitHub Stats
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakhzod2000&theme=dark&hide_border=true&background=1c1917" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shakhzod2000&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
 </div>
 
-
-<!--
-## GitHub Stats
-<a href="https://github.com/shakhzod2000" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzod2000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
--->
-
-
-## GitHub Stats
-<!-- <div align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shakhzod2000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
-</div> -->
-
-
-<div align="left">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shakhzod2000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
-</div>
-
-
-## GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats-ten-lovat-26.vercel.app/api/top-langs/?username=shakhzod2000&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
-</div>
-
-
+<!-- TOP LANGUAGES BY REPO -->
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakhzod2000&theme=github_dark" alt="Top Languages" />
 </div>
