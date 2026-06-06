@@ -160,6 +160,6 @@ https://essential-words.uz
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakhzod2000&theme=github_dark" alt="Top Languages" />
 </div>
 
-
-<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+<!-- Grid-Snake -->
+<!-- <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"> -->
 
