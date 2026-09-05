@@ -18,7 +18,7 @@
     </td>
     <td align="center" width="116">
         <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg" alt="icon" width="48" height="48" />
-      <br>Spring Boot
+      <br>Oracle DB
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
