@@ -9,6 +9,18 @@
 <table align="left">
   <tr>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="48" height="48" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="116">
+        <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg" alt="icon" width="48" height="48" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       </a>
@@ -21,14 +33,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
       <br>FastAPI
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="48" height="48" />
-      <br>Spring Boot
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
